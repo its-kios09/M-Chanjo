@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">mChanjo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    First Screen Resources-->
+    <string name="title">Importance of Immunization</string>
+    <string name="description">Immunisation saves lives. It protects you, your family and your community. Immunisation helps protect future generations by eradicating diseases</string>
+    <string name="next">Next</string>
+    <!--    Second Screen Resources-->
+    <string name="title2">Umuhimu wa Chanjo</string>
+    <string name="description2">Kinga huokoa maisha. Inakulinda wewe, familia yako na jamii yako. Kinga husaidia kulinda vizazi vijavyo kwa kutokomeza magonjwa</string>
+    <!--    Third Screen Resources-->
+    <string name="title3">Welcome to mChanjo</string>
+    <string name="started">Let\'s Get Started</string>
+
+
+    <!--    Skip resource-->
+    <string name="skip">Skip</string>
+
+    <!--    Dashboard Icon Label-->
+    <string name="clinician">mChanjo Dashboard\n\nHello, Clinician👩‍⚕️ 🧑‍⚕️😷</string>
+    <string name="learning">Vaccines Policy</string>
+    <string name="register">Register Infant</string>
+    <string name="Search">EHR Reports</string>
+    <string name="sync">Sync Infant Data</string>
+    <string name="administer">Revisit Infant</string>
+    <string name="logout">Log Out</string>
+    <string name="submit" />
+</resources>
